@@ -1,0 +1,14 @@
+<svg width="500" height="200" viewBox="0 0 500 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="200" fill="transparent"/>
+  
+  <path d="M60 110L80 50L110 90L140 40L170 90L200 50L220 110H60Z" fill="#0BC5EA" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="140" cy="30" r="8" fill="#0BC5EA" stroke="white" stroke-width="2"/>
+  <circle cx="80" cy="40" r="5" fill="#0BC5EA" stroke="white" stroke-width="2"/>
+  <circle cx="200" cy="40" r="5" fill="#0BC5EA" stroke="white" stroke-width="2"/>
+
+  <text x="240" y="100" font-family="Segoe UI, Arial, sans-serif" font-weight="900" font-size="48" fill="#0BC5EA" style="text-transform: uppercase; letter-spacing: 2px;">RAO SAHAB</text>
+  
+  <text x="240" y="135" font-family="Segoe UI, Arial, sans-serif" font-weight="400" font-size="22" fill="white" style="letter-spacing: 8px;">WEAR</text>
+  
+  <line x1="240" y1="150" x2="480" y2="150" stroke="#0BC5EA" stroke-width="2" stroke-dasharray="5 5"/>
+</svg>
